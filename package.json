@@ -12,12 +12,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mio3io/cr-vue.git"
+    "url": ""
   },
-  "bugs": {
-    "url": "https://github.com/mio3io/cr-vue/issues"
-  },
-  "homepage": "https://github.com/mio3io/cr-vue#readme",
   "devDependencies": {
     "@vuepress/plugin-google-analytics": "^1.0.1",
     "vuepress": "^1.0.1"
